@@ -1,0 +1,7 @@
+aiogram~=2.20
+requests~=2.28.0
+python-dotenv~=0.20.0
+pandas
+openpyxl
+psycopg2
+
